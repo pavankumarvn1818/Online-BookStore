@@ -127,7 +127,7 @@ cd Online-BookStore
 ```bash id="cc0b6b"
 cd server
 npm install
-npm start
+node app.js or nodemon app.js
 ```
 
 ---
